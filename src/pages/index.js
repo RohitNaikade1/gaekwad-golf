@@ -62,7 +62,7 @@ const Home = (e) => {
                     currency: res.data.data.currency,
                     amount: res.data.data.amount.toString(),
                     order_id: res.data.data.id,
-                    name: "Pay to Gram Panchayat",
+                    name: "Pay to Gaekwad Golf",
                     image: { Logo },
                     handler: function (response) {
                         const data = {
