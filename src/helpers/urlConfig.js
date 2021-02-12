@@ -1,1 +1,1 @@
-export const api='https://gaikwad-golf.herokuapp.com/';
+export const api='http://localhost:5000/';
